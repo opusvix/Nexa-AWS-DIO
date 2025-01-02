@@ -22,7 +22,7 @@
 </audio>
 
 
-# Bootcamp CAIXA - IA Generativa com Microsoft Pilot da [DIO](https://dio.me)
+# "Nexa - Análise Avançada de Imagens e Texto com IA na AWS" na plataforma da [DIO](https://dio.me)
 
 ## Módulo "Projetos Práticos com IA".
 
