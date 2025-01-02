@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Desafio prático para extrair texto de imagens utilizando soluções de reconhecimento avançado.png"
+    src="./assets/aws-icon-1024x1024-xh5ti9kd.png"
     width="300"
 />
 </p>
