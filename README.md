@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Capa-1.png"
+    src="./assets/Desafio prático para extrair texto de imagens utilizando soluções de reconhecimento avançado.png"
     width="300"
 />
 </p>
