@@ -24,9 +24,13 @@
 
 # "Nexa - Análise Avançada de Imagens e Texto com IA na AWS" na plataforma da [DIO](https://dio.me)
 
-## Módulo "Projetos Práticos com IA".
+## Módulo "Construindo Diálogos na AWS".
 
-### Desafio de Projeto "Criando um Podcast com IAs Generativas".
+### Desafios de Projeto: 
+
+["Transcrevendo uma imagem em Texto com AWS Textract"](./ocr-textract/)
+
+["AWS Rekognition - Detectando Celebridades em Imagens"](./ocr-celebridades/)
 
 Chegou a hora de pôr as ferramentas de IA à prova, vamos construir um podcast utilizando ferramentas de IA para isso. 
 Vamos utilizar o ChatGPT para criar um título atrativo e um roteiro magnético para o nosso podcast, vamos extrair o máximo de poder do Stable Diffusion para gerar uma capa personalizada e ainda utilizar o ElevenLabs para gerar um conteúdo de voz mais humanizado.
