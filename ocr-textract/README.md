@@ -1,14 +1,16 @@
-# OCR Lista Escolar
+# Transcrevendo uma Imagem em Texto com AWS Textract
 
-Projeto usado para exemplificar o uso do [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_DetectDocumentText.html) na extração de textos em imagens simples.
+## OCR Lista Escolar com Textract
 
-## Pré requisitos
+Desafio prático para extrair texto de imagens utilizando soluções de reconhecimento avançado como o [AWS Textract](https://docs.aws.amazon.com/pt_br/textract/latest/dg/API_DetectDocumentText.html).
+
+## Pré-requisitos
 
 - Python
 - Uv
 - Conta AWS
 
-## Configuração do ambiente
+## Configuração do Ambiente
 
 É necessário configurar um usuário no IAM com acesso ao serviço Textract.
 
