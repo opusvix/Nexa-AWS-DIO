@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/aws-icon-1024x1024-xh5ti9kd.png"
+    src="./assets/download.jpeg"
     width="300"
 />
 </p>
