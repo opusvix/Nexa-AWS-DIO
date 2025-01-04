@@ -1,6 +1,8 @@
-# Reconhecimento Celebridades
+# AWS Rekognition - Detectando Celebridades em Imagens
 
-Projeto usado para exemplificar o uso do [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html) no reconhecimento dos rostos de celebridades.
+## OCR Detectando Celebridades com AWS Rekognition
+
+Desafio prático para exemplificar o uso do [AWS Rekognition](https://docs.aws.amazon.com/pt_br/rekognition/latest/APIReference/API_RecognizeCelebrities.html) no reconhecimento dos rostos de celebridades.
 
 ## Pré requisitos
 
